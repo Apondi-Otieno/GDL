@@ -1,2 +1,2 @@
 # GDL
-Global Data Lab Projects
+Global Data Lab Projects folder
